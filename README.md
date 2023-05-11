@@ -9,6 +9,11 @@
 
 1. Create a `simple-ng-md` folder.
 
-2. Change directory to `simple-ng-md`.
+1. Change directory to `simple-ng-md`.
 
-3. Run `yarn add @angular/cli`.
+1. Run `yarn add @angular/cli`.
+
+1. Run `yarn run ng new blog`.
+
+1. Change directory to `blog`, and run `yarn run ng serve --open`.
+   You should see a web page is opened in your browser.
