@@ -17,3 +17,11 @@
 
 1. Change directory to `blog`, and run `yarn run ng serve --open`.
    You should see a web page is opened in your browser.
+
+1. `Ctrl + C` to terminate the script in terminal or open a new terminal.
+
+1. Run `yarn run ng add @angular/material` in `simple-ng-md`.
+   Select `Y` for all prompts in terminal, it doesn't matter for now.
+
+1. Run `yarn run ng serve --open` again!
+   No obvious UI changes by now, but it will happen soon!
